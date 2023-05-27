@@ -1,3 +1,5 @@
+# reference => https://ctftime.org/writeup/27158
+
 import requests
 from string import *
 
